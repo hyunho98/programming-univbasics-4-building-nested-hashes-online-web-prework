@@ -22,7 +22,7 @@ def monopoly_with_third_tier
 		{
 			pieces: 4,
 			rent_in_dollars: {key1: 1, key2: 2, key3: 3, key4: 4},
-			names: 1
+			names: {name1: "name1", name2: "name2", name3: "name3", name4: "name4"}
 		}
 	}
 end
